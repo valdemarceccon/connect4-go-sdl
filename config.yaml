@@ -1,0 +1,8 @@
+dimensions:
+  width: 800
+  height: 600
+gap: 15
+padding: 10
+border: 20
+rows: 6
+columns: 7
